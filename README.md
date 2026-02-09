@@ -21,13 +21,14 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ## 🎯 Featured Projects
 
+### 🌟 [learnMate](https://spoorthy-bhat-88.github.io/LearnMate/)
+An intelligent learning companion that creates a personalized learning path for any topic, with diagrams arn real world analogies. It allows users to ask questions, dive deeper and recommends topics for further reading.
+
 ### 🌟 [100 Game](https://spoorthy-bhat-88.github.io/100-game/)
 An interactive number game where players cooperate to exhaust all 100 cards using strategic moves. Features engaging gameplay mechanics.
-- **Tech:** HTML, CSS, JavaScript, websockets
-- **Highlights:** Real-time game logic, responsive design, score tracking
 
 ### 🌟 [Resume Builder](https://spoorthy-bhat-88.github.io/resume-builder/)
 A web-based tool that helps users create professional resumes with ease. Generate, customize, and download your resume in minutes with a clean, modern interface.
-- **Tech:** HTML, CSS, JavaScript
-- **Highlights:** Dynamic form inputs, real-time preview
+
+
 
